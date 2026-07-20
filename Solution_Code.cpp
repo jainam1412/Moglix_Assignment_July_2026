@@ -1,4 +1,4 @@
-  int longestValidParentheses(string s) {
+  int longestParenthesis(string s) {
         stack<int> st;
         st.push(-1);
 
